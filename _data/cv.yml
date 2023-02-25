@@ -2,96 +2,62 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Simona Bisiani
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20th October 1994
     - name: Languages
-      value: English, German
+      value: English, Italian, Swedish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD AI-Assisted Journalism
+      institution: University of Surrey, Guildford, England
+      year: 2022-2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - My research project aims at deepening our understanding of geographic patterns of news coverage through NLP and text mining. The findings from this research will enable news producers to better understand which audiences they are serving, and which communities are underserved.
+        - title: Other projects
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Arists and AI.
+            - ChatGPT's effects on the labour market - Twitter users' views.
+    - title: MSc Computational Social Science
+      institution: Linköping University, Norrköping, Sweden
+      year: 2019-2021
       description:
-        - Description 1.
-        - Description 2.
+        - Master Thesis
+    - title: BA(Hons) Journalism
+      institution: Robert Gordon University, Aberdeen, Scotland
+      year: 2013-2017
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Data Journalist
+      institution: DataJournalism.com, European Journalism Centre
+      year: 2021-2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Blogger
+        - title: The State of Data Journalism Survey (editions 2021, 2022)
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Survey creator
+            - Data analyst
+            - Visualisations and website producer
+            - Results reporting
+    - title: Data Journalist
+      institution: Sheldon.studio
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Disabled Data
+        - EU Sanctions Tracker
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Other
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: <a href="https://compscjournalism.org">Computational Social Journalism co-founder</a>
+      year: 2019-now
+      description: Computational social journalism (CSJ) describes a personal vision of future journalism, based on the intersection of journalism and computational social science. A vision we embodied in a blog. 
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Cycling (road and mtb), Running, Music.
