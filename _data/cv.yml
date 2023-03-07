@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: <a href="https://invited-dress-edc.notion.site/Home-7a1dee804e3f4fedb89205b468253f69">PhD AI-Assisted Journalism</a>
-      institution: University of Surrey, Guildford, England
+      institution: <a href="https://www.surrey.ac.uk/people/simona-bisiani">Surrey Institute for People-Centred AI</a>, University of Surrey, Guildford, England
       year: 2022-2026
       description:
         - My research project aims at deepening our understanding of geographic patterns of news coverage through NLP and text mining. The findings from this research will enable news producers to better understand which audiences they are serving, and <a href = "https://frabjous-klepon-c65fee.netlify.app/">which communities are underserved</a>.
@@ -25,12 +25,11 @@
       year: 2019-2021
       description:
         - <a href="https://github.com/simonabisiani/Swedish-municipalities--white-spots--local-journalism-funding"> Master Thesis - Using FastText´s supervised
-machine learning model to measure the quality of local news
-in journalistically fragile Swedish municipaliies.</a>
+machine learning model to measure the quality of local news in journalistically fragile Swedish municipaliies.</a>
     - title: BA(Hons) Journalism
       institution: Robert Gordon University, Aberdeen, Scotland
       year: 2013-2017
-      description: Bachelor's Thesis: Measuring the impact of citizen journalism platforms on Aberdonians social capital
+      description: Bachelors Thesis - Measuring the impact of citizen journalism platforms on Aberdonians social capital
 
 - title: Experience
   type: time_table
@@ -50,7 +49,7 @@ in journalistically fragile Swedish municipaliies.</a>
       institution: Sheldon.studio
       year: 2022
       description:
-        - Disabled Data
+        - <a href="https://disableddata.fightthestroke.org/">Disabled Data</a>
         - EU Sanctions Tracker
 
 - title: Other
