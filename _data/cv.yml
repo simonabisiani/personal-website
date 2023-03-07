@@ -29,7 +29,8 @@ machine learning model to measure the quality of local news in journalistically 
     - title: BA(Hons) Journalism
       institution: Robert Gordon University, Aberdeen, Scotland
       year: 2013-2017
-      description: Bachelors Thesis - Measuring the impact of citizen journalism platforms on Aberdonians social capital
+      description: 
+        - Bachelors Thesis - Measuring the impact of citizen journalism platforms on Aberdonians social capital
 
 - title: Experience
   type: time_table
