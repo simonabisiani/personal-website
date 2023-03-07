@@ -24,10 +24,13 @@
       institution: Linköping University, Norrköping, Sweden
       year: 2019-2021
       description:
-        - Master Thesis
+        - <a href="https://github.com/simonabisiani/Swedish-municipalities--white-spots--local-journalism-funding"> Master Thesis - Using FastText´s supervised
+machine learning model to measure the quality of local news
+in journalistically fragile Swedish municipaliies.</a>
     - title: BA(Hons) Journalism
       institution: Robert Gordon University, Aberdeen, Scotland
       year: 2013-2017
+      description: Bachelor's Thesis: Measuring the impact of citizen journalism platforms on Aberdonians social capital
 
 - title: Experience
   type: time_table
