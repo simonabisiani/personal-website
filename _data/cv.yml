@@ -11,11 +11,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD AI-Assisted Journalism
+    - title: <a href="https://invited-dress-edc.notion.site/Home-7a1dee804e3f4fedb89205b468253f69">PhD AI-Assisted Journalism</a>
       institution: University of Surrey, Guildford, England
       year: 2022-2026
       description:
-        - My research project aims at deepening our understanding of geographic patterns of news coverage through NLP and text mining. The findings from this research will enable news producers to better understand which audiences they are serving, and which communities are underserved.
+        - My research project aims at deepening our understanding of geographic patterns of news coverage through NLP and text mining. The findings from this research will enable news producers to better understand which audiences they are serving, and <a href = "https://frabjous-klepon-c65fee.netlify.app/">which communities are underserved</a>.
         - title: Other projects
           contents:
             - Arists and AI.
