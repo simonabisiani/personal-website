@@ -43,6 +43,8 @@ In Italy, when it comes do data journalism:
 
 <h2>Demographics</h2>
 <br>
+Italy was the third largest country in terms of respondents in our survey, after the United States and the United Kingdom. 102 people working in data journalism in Italy took the survey, corresponding to 6% of the sample, allowing decent subgroup statistical inference.
+
 More women than the average and generally older: that's the picture portrayed by the Italian demographics in The State of Data Journalism Survey 2022. 
 
 The age pattern between Italians and the rest of the world is noticeably different: while 38% in the world are over 45, in Italy the same group is 58%. 
@@ -270,6 +272,7 @@ In Italia, quando si parla di data journalism:
 
 <br>
 <h2>Dati demografici</h2>
+L'Italia è il terzo paese più grande in termini di partecipazione al sondaggio, dopo gli Stati Uniti e il Regno Unito. 102 persone che lavorano nel giornalismo di dati in Italia hanno partecipato, corrispondendo al 6% del campione, e permettendo stabilità in termini di analisi statistica. 
 
 Più donne della media e in generale più anziane: è questo il quadro che emerge dai dati demografici italiani dell'indagine The State of Data Journalism Survey 2022.
 
