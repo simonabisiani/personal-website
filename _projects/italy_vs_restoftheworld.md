@@ -5,7 +5,7 @@ description: a project for the European Journalism Centre
 img: assets/img/italy.jpg
 ---
 
-Head theherere to read this post in -> <b><a href="#italian">Italiano</a></b>
+Head here to read this post in -> <b><a href="#italian">Italiano</a></b>
 
 For the second year in a row, I have been in charge of a global survey aimed at the data journalism industry, designed and delivered for the <a href="https://ejc.net/">European Journalism Centre</a>’s <a href="https://datajournalism.com/">DataJournalism.com</a>. In this post I build on that analysis to expose the characteristics of one particular subgroup of respondents: those who work as data journalists in Italy. 
 
@@ -255,16 +255,17 @@ Oh, e un promemoria! L'analisi può essere replicata attraverso <a href="https:/
 <h2>Tl;dr</h2>
 
 In Italia, quando si parla di data journalism:
+
 - ci sono relativamente più donne rispetto al resto del mondo, che sono anche più istruite, soprattutto rispetto ai loro colleghi maschi; le persone tendono a essere più anziane;
 - ci sono relativamente più freelance e meno redattori o educatori; nessuna donna ricopre posizioni editoriali; i giovani (sotto i 24 anni) sono esclusivamente studenti, a differenza di quanto accade altrove;
-- si fa meno affidamento sull'istruzione superiore o sulla formazione sul posto di lavoro come mezzo per imparare la professione, e i corsi online colmano questa lacuna (o la creano);
+- si fa meno affidamento sull’istruzione universitaria o sulla formazione sul posto di lavoro come mezzo per imparare la professione, e i corsi online colmano questa lacuna (o la creano);
 - il divario retributivo tra i sessi è ancora più marcato che nel resto del mondo; ci sono meno persone che guadagnano meno, ma quando ciò accade, queste tendono a essere donne;
-- c'è la tendenza a non occuparsi di giornalismo d'inchiesta come nel resto del mondo. Ci si concentra piuttosto sul web design, sull'uso di linguaggi come HTML/CSS e sulla creazione di storie arricchite da dati. Questa mancanza di priorità del giornalismo investigativo rispetto al resto del mondo si ripropone quando si esaminano i valori percepiti e le sfide del giornalismo dei dati;
-- le persone del settore sono state relativamente meno colpite personalmente dalla pandemia, che viene vista come un effetto per lo più positivo sul giornalismo dei dati; quasi la metà degli intervistati è diventata giornalista dei dati a seguito della pandemia;
-- le difficoltà del settore sono relativamente più incentrate sull'uso corretto dei dati piuttosto che sulle limitazioni finanziarie o sulla pressione del tempo;
-- il maggior numero di persone tende a occuparsi di ambiente, mentre altrove la categoria principale è la politica. Le persone che lavorano per le testate internazionali sono relativamente (e anche in termini assoluti) più numerose di quelle nazionali. La stampa, in formato giornale o rivista, è molto più diffusa come mezzo di pubblicazione rispetto al resto del mondo;
+- c’è la tendenza a non occuparsi di giornalismo d’inchiesta come nel resto del mondo. Ci si concentra piuttosto sul web design, sull’uso di linguaggi come HTML/CSS e sulla creazione di storie arricchite da dati. Questa mancanza di priorità del giornalismo investigativo rispetto al resto del mondo si ripropone quando si esaminano i valori percepiti e le sfide del giornalismo dei dati;
+- le persone del settore sono state relativamente meno colpite personalmente dalla pandemia, che viene vista come avente un effetto per lo più positivo sul giornalismo dei dati; quasi la metà degli intervistati è diventata giornalista dei dati a seguito della pandemia;
+- le difficoltà del settore, rispetto al resto del mondo, sono relativamente più incentrate sull’uso corretto dei dati piuttosto che sulle limitazioni finanziarie o sulla pressione del tempo;
+- il maggior numero di persone tende a occuparsi di ambiente, mentre altrove la categoria principale è la politica. Le persone che lavorano per le testate internazionali sono relativamente (e anche in termini assoluti) più numerose di quelle nazionali. La stampa, in formato giornale o rivista, è molto più diffusa come mezzo di pubblicazione rispetto al resto del mondo, anche se in generale prevalgono i mezzi digitali;
 - ci sono relativamente meno collaborazioni, meno unità di dati dedicate, e relativamente più storie sono state consegnate entro un giorno, nonostante le scadenze più lunghe siano la norma anche in Italia;
-- un numero relativamente maggiore di reporter ha realizzato una copertura sul campo del conflitto tra Ucraina e Russia.
+- un numero relativamente maggiore di reporter ha realizzato una copertura sul campo del conflitto tra Ucraina e Russia rispetto al resto del mondo.
 
 
 <br>
