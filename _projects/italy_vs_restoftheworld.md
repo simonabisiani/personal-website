@@ -425,12 +425,11 @@ Sebbene il quadro generale sia abbastanza equilibrato, in Italia più persone co
 
 Una seconda domanda sul valore e sul contributo del data journalism sembra confermare il modello già visto, secondo cui il data journalism come strumento di indagine conta meno per gli intervistati in Italia che altrove. Per gli intervistati in Italia, il data journalism è piuttosto uno strumento che migliora molteplici aspetti del rapporto con il pubblico: rende gli output affidabili e aiuta i lettori a dare un senso alle informazioni.
 
-<div class="flourish-embed flourish-scatter" data-src="visualisation/13027407"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-scatter" data-src="visualisation/13032538"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Per quanto riguarda le sfide, l'Italia è meno colpita dalla pressione del tempo e dalla mancanza di risorse finanziarie rispetto ad altri Paesi. Invece, i giornalisti che si occupano di dati in Italia sembrano essere relativamente più preoccupati delle questioni legate all'utilizzo dei dati: assicurarsi che i dati siano utilizzati in modo etico e che i dati utilizzati siano affidabili.
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/13026074"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
+<div class="flourish-embed flourish-scatter" data-src="visualisation/13027407"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <br>
 <h2>Copertura del conflitto Russia-Ucraina</h2>
