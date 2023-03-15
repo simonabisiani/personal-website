@@ -15,7 +15,7 @@ One key component of studying local news deserts is to define the local in local
 
 To collect these titles, I used information from several public resources, and an extensive methodology on the data collection can be found in a dedicated book project on this part of my research.
 
-<div class="flourish-embed flourish-map" data-src="visualisation/13059565"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-map" data-src="visualisation/13054897" style="width:48%; display: inline-block; vertical-align: top; aria-label="><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <div class="flourish-embed flourish-map" data-src="visualisation/13059565" style="width:48%; display: inline-block; vertical-align: top; aria-label="><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
