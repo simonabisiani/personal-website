@@ -21,12 +21,24 @@ To collect these titles, I used information from several public resources, and a
         display: inline-block;
         vertical-align: top;
     }
-
+    
     /* On screens smaller than 768px, stack the visualisations vertically */
     @media (max-width: 767px) {
         .flourish-embed {
             width: 100%;
             display: block;
+        }
+    }
+
+    /* Override the width for the third chart on all screen sizes */
+    .full-width-chart {
+        width: 100%;
+    }
+    
+    /* On screens smaller than 768px, stack the visualisations vertically */
+    @media (max-width: 767px) and (not all and (min-width: 768px)) {
+        .full-width-chart {
+            width: 100%;
         }
     }
 </style>
@@ -35,17 +47,15 @@ To collect these titles, I used information from several public resources, and a
 
 <div class="flourish-embed flourish-map" data-src="visualisation/13059565"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
-
-
 <br>
 <br>
 <h2>Ownership</h2>
 <br>
 The local news market appears to be very concentrated, with 58% of titles owner by just three companies.
 <br>
-<div class="flourish-embed flourish-chart" data-src="visualisation/13093549"><script src="https://public.flourish.studio/resources/embed.js"></script></div><br>
+<div class="flourish-embed flourish-chart full-width-chart" data-src="visualisation/13093549"><script src="https://public.flourish.studio/resources/embed.js"></script></div><br>
 <br>
+
 What does this mean at the end of the day? How many district monopolies does each publisher have?
 <br>
 <div class="flourish-embed flourish-map" data-src="visualisation/13093296"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -56,7 +66,7 @@ What does this mean at the end of the day? How many district monopolies does eac
 <br>
 <h2>Data</h2>
 <br>
-Here is a table behind the first map. Scroll to see all the districts.
+Here is the data behind the charts. 
 <br>
 <br>
-<iframe src="https://simonabisiani.shinyapps.io/local_news_by_LAD_shinyapp/" width="100%" height="400px"></iframe>
+<iframe src="https://simonabisiani.shinyapps.io/local_news_by_LAD_shinyapp/" width="100%" height="800px"></iframe>
