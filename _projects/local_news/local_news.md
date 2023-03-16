@@ -260,6 +260,31 @@ background-color: #00000008;
 border: 0;
 }
 </style>
+<style type="text/css">
+@media only screen and (max-width: 600px) {
+.lightable-minimal,
+.lightable-classic,
+.lightable-classic-2,
+.lightable-material,
+.lightable-material-dark {
+font-size: 14px;
+border-spacing: 6px 1px;
+}
+.lightable-minimal td,
+.lightable-minimal th,
+.lightable-classic td,
+.lightable-classic th,
+.lightable-classic-2 td,
+.lightable-classic-2 th,
+.lightable-material td,
+.lightable-material th,
+.lightable-material-dark td,
+.lightable-material-dark th {
+padding: 4px;
+}
+}
+</style>
+
 <script>$(document).ready(function(){
     if (typeof $('[data-toggle="tooltip"]').tooltip === 'function') {
         $('[data-toggle="tooltip"]').tooltip();
@@ -270,7 +295,7 @@ border: 0;
 });
 </script>
 
-<div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:600px; overflow-x: scroll; width:100%; "><table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<div style="border: 0px solid #ddd; padding: 0px; overflow-y: scroll; height:600px; overflow-x: hidden; width:100%; "><table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Local Authority District </th>
