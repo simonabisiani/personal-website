@@ -296,7 +296,7 @@ padding: 4px;
 });
 </script>
 
-<div style="border: 0px solid #ddd; padding: 0px; overflow-y: hidden; height:500px; overflow-x: hidden; width:100%; "><table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<div style="border: 0px solid #ddd; padding: 0px; overflow-y: hidden; height:100%; overflow-x: hidden; width:100%; "><table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Local Authority District </th>
