@@ -69,4 +69,4 @@ What does this mean at the end of the day? How many district monopolies does eac
 Here is the data behind the charts. 
 <br>
 <br>
-<iframe src="https://simonabisiani.shinyapps.io/local_news_by_LAD_shinyapp/" width="100%" height="100%"></iframe>
+<iframe src="https://simonabisiani.shinyapps.io/local_news_by_LAD_shinyapp/" width="100%" height="1000px"></iframe>
