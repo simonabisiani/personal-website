@@ -15,6 +15,10 @@ My tasks included:
 -   write textual content to accompany the visuals
 -   <a href= "https://github.com/ejcnet/stateofdatajournalism2021">release an open version of the dataset</a>
 
+<h2>In the media</h2>
+-   https://www.infodata.ilsole24ore.com/2022/07/21/identikit-del-giornalista-dati-italiano-2/?refresh_ce=1
+
+
 <br> 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
