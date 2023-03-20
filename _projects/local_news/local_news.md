@@ -2,7 +2,7 @@
 layout: page
 title: UK local news database
 description: 
-img: assets/img/uk_local_news.jpg
+img: /assets/img/uk_local_news.jpg
 ---
 
 The following page presents what, to the best of my knowledge, are current local news titles in existence in March 2023 in the United Kingdom.
