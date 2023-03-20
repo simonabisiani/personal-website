@@ -9,7 +9,17 @@ For the second year in a row, I have been in charge of a global survey aimed at 
 
 &nbsp; 
 
-My tasks included:
+<h2>In the media</h2>
+-   <a href="https://ejc.net/news/explore-the-results-of-our-2022-state-of-data-journalism-survey">European Journalism Centre's announcement</a>
+-   <a href="https://www.journalism.co.uk/news/pandemic-and-russia-ukraine-war-have-demonstrated-the-value-of-data-journalism/s2/a1011357/">Journalism.co.uk article</a>
+-   <a href="https://twitter.com/smfrogers/status/1634253611277639680">Twitter thread by Simon Rogers</a>
+-   <a href="https://www.journalismfestival.com/programme/2023/data-journalism-skills-tools-and-trends">Dedicated panel at the International Journalism Festival 2023</a>
+
+
+&nbsp; 
+<h2>Tasks</h2>
+
+In the project, tasks included:
 -   create the survey and spread it
 -   analyse the results
 -   visualise the results
