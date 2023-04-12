@@ -53,7 +53,7 @@ To collect these titles, I used information from several public resources, and a
 <br>
 The local news market appears to be very concentrated, with 58% of titles owner by just three companies.
 <br>
-<div class="flourish-embed" data-src="visualisation/13394329"><script src="https://public.flourish.studio/resources/embed.js"></script></div><br>
+<div class="flourish-embed flourish-chart full-width-chart" data-src="visualisation/13394329"><script src="https://public.flourish.studio/resources/embed.js"></script></div><br>
 <br>
 
 What does this mean at the end of the day? How many district monopolies does each publisher have?
