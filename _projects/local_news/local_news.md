@@ -79,7 +79,7 @@ Where are these districts located? And overall, where are different publishers p
 
 As part of my research on news deserts, I am also looking into demographic factors and media presence correlates. As an initial test, I mapped the number of households in a LAD based on data from the recent 2021 Census (which is only for England and Wales, so I left Scotland and Northern Ireland out). As the trend line shows, there is a positive correlation between population size and local news availability. Nonetheless, there are variations worth noting. For example, Bournemouth, Christchurch and Poole is a district with nearly 174 thousand households, and there is only one local news provider there. Mid Devon and East Devon instead, despite much smaller populations, have a relatively much larger number of titles. 
 <br>
-<div class="flourish-embed" data-src="story/1892046"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed full-width-chart" data-src="story/1892046"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
 <h2>Data</h2>
 <br>
