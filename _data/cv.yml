@@ -34,6 +34,26 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Data Architect
+      institution: Public Interest News Foundation
+      year: 2024-
+      description:
+        - title: Managing the end-to-end design and maintenance of the local media database architecture
+          contents:
+            - Integrating AI (LLMs) solutions in the workflow
+            - Interacting with APIs
+            - Documenting and visualising the architecture
+            - Developing several automation scripts in R and Python
+    - title: Teaching Assistant
+      institution: University of Surrey
+      year: 2023-2023
+      description:
+        - Delivering teaching content and assisting lectures in the management of the module Topics in People-Centred AI for the MSc students of Artificial Intelligence
+    - title: Research Assistant
+      institution: University of Canterbury
+      year: 2023-2023
+      description:
+        - Collecting local media articles and testing GIS tools to extract geolocations from the text
     - title: Data Journalist
       institution: DataJournalism.com, European Journalism Centre
       year: 2021-2023
@@ -50,7 +70,7 @@
       year: 2022
       description:
         - <a href="https://disableddata.fightthestroke.org/">Disabled Data</a>
-        - EU Sanctions Tracker
+        - <a href="https://data.europa.eu/apps/eusanctionstracker/">EU Sanctions Tracker</a>
 
 - title: Other
   type: time_table
