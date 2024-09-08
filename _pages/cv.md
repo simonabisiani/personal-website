@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: CV_Spring23_SimonaBisiani.pdf
+cv_pdf: CV_Simona_Bisiani.pdf
 ---
